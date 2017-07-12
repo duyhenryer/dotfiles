@@ -1,0 +1,1267 @@
+May 15 17:16 : config: option 'device' on line 14 was not recognized
+May 15 17:16 : config: option 'mixer_device' on line 16 was not recognized
+May 15 17:16 : config: option 'mixer_control' on line 17 was not recognized
+May 15 17:16 : config: option 'mixer_index' on line 18 was not recognized
+May 15 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 17:17 : client: [0] opened from [::1]:39748
+May 15 17:19 : client: [0] closed
+May 15 17:36 : client: [1] opened from [::1]:40152
+May 15 17:36 : client: [1] closed
+May 15 17:39 : client: [2] opened from [::1]:40218
+May 15 17:41 : client: [2] closed
+May 15 17:43 : client: [3] opened from [::1]:40226
+May 15 17:44 : client: [3] closed
+May 15 17:44 : client: [4] opened from [::1]:40228
+May 15 17:45 : client: [4] closed
+May 15 17:45 : client: [5] opened from [::1]:40230
+May 15 17:46 : client: [5] closed
+May 15 17:46 : client: [6] opened from [::1]:40232
+May 15 17:46 : client: [6] closed
+May 15 17:46 : client: [7] opened from [::1]:40234
+May 15 17:51 : client: [7] closed
+May 15 17:54 : client: [8] opened from [::1]:40326
+May 15 17:56 : client: [8] closed
+May 15 17:56 : client: [9] opened from [::1]:40330
+May 15 17:57 : client: [9] closed
+May 15 17:57 : client: [10] opened from [::1]:40334
+May 15 17:57 : client: [10] closed
+May 15 17:57 : client: [11] opened from [::1]:40336
+May 15 17:57 : update: added /Charlie Puth - Attention [Official Video].mp3
+May 15 18:02 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:08 : update: updating /Charlie Puth - Attention [Official Video].mp3
+May 15 18:13 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:17 : client: [11] closed
+May 15 18:17 : client: [12] opened from [::1]:40368
+May 15 18:17 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:22 : client: [12] closed
+May 15 18:22 : client: [13] opened from [::1]:41212
+May 15 18:22 : client: [13] closed
+May 15 18:22 : client: [14] opened from [::1]:41214
+May 15 18:24 : client: [14] closed
+May 15 18:24 : client: [15] opened from [::1]:41216
+May 15 18:25 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:27 : client: [15] closed
+May 15 18:27 : client: [16] opened from [::1]:41218
+May 15 18:27 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:27 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:27 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:27 : client: [16] closed
+May 15 18:28 : client: [17] opened from [::1]:41222
+May 15 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:29 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:29 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:29 : client: [17] closed
+May 15 18:29 : client: [18] opened from [::1]:41224
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:30 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:30 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:30 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:31 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:31 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:31 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:32 : client: [18] closed
+May 15 18:55 : config: option 'device' on line 14 was not recognized
+May 15 18:55 : config: option 'mixer_device' on line 16 was not recognized
+May 15 18:55 : config: option 'mixer_control' on line 17 was not recognized
+May 15 18:55 : config: option 'mixer_index' on line 18 was not recognized
+May 15 18:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 18:55 : client: [0] opened from [::1]:36706
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:55 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:55 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:55 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:56 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 15 18:56 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 15 18:56 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 15 18:58 : exception: Bad playlist name
+May 15 18:58 : client: [0] closed
+May 16 18:27 : config: option 'device' on line 14 was not recognized
+May 16 18:27 : config: option 'mixer_device' on line 16 was not recognized
+May 16 18:27 : config: option 'mixer_control' on line 17 was not recognized
+May 16 18:27 : config: option 'mixer_index' on line 18 was not recognized
+May 16 18:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 16 18:28 : client: [0] opened from [::1]:60282
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 16 18:28 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 16 18:28 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 16 18:28 : client: [0] closed
+May 17 03:10 : client: [1] opened from [::1]:41788
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:10 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:10 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 03:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 03:11 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:11 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:11 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:11 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:11 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:11 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:11 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:11 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:11 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:11 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:11 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:11 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:11 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:11 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:11 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:11 : client: [1] closed
+May 17 03:15 : client: [2] opened from 127.0.0.1:42048
+May 17 03:16 : client: [2] closed
+May 17 03:19 : client: [3] opened from 127.0.0.1:42058
+May 17 03:20 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:20 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:20 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:20 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:20 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:20 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:20 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:20 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:20 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:20 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:20 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:20 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:20 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:20 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:20 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:20 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:21 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:21 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:21 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:22 : client: [3] closed
+May 17 03:22 : client: [4] opened from 127.0.0.1:42066
+May 17 03:22 : exception: Failed to decode /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3
+May 17 03:22 : exception: nested: Failed to open /home/duyhenry/Music/Charlie Puth - Attention [Official Video].mp3: No such file or directory
+May 17 03:22 : player: played "Charlie Puth - Attention [Official Video].mp3"
+May 17 03:22 : client: [4] closed

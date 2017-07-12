@@ -1,0 +1,8 @@
+#!/bin/bash
+
+source ~/.xprofile
+[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+
+
+goldendict &
+nm-applet &

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias ~='cd ~'
+alias -- -="cd -"
+
+#Short cuts
+alias dow='cd ~/Downloads'
+alias doc="cd ~/Documents"
+alias app='cd ~/Applications'
+alias h='history'
+
+
+

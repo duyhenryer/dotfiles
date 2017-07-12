@@ -1,0 +1,56 @@
+!xterm*font: Misc Ohsnap 11
+
+! vim: set ft=xdefaults:
+! Xterm resources
+
+! Default window size
+xterm*VT100.geometry: 80x25
+
+! Default font
+xterm*faceName: xft:Powerline Consolas:pixelsize=13:style=Regular
+! CJK font
+xterm*faceNameDoublesize: xft:WenQuanYi Micro Hei Mono:pixelsize=14
+
+! Common settings
+XTerm*locale:           true
+xterm*termName:         xterm-256color
+XTerm*local:            true
+XTerm*metaSendsEscape:  true
+xterm*dynamicColors:    true
+xterm*utf8:             1
+xterm*eightBitInput:    true
+xterm*saveLines:        512
+xterm*scrollKey:        true
+xterm*scrollTtyOutput:  false
+xterm*scrollBar:        false
+xterm*rightScrollBar:   false
+xterm*jumpScroll:       true
+xterm*multiScroll:      true
+xterm*toolBar:          false
+xterm*borderWidth:      0
+
+XTerm*pointerColor:             #5C6370
+XTerm*pointerColorBackground:   black
+XTerm*cursorBlink:              true
+
+! Color table
+xterm*background:   #1E2127
+xterm*foreground:   #ABB2BF
+XTerm*cursorColor:  #5C6370
+
+xterm*color0:       #282C34
+xterm*color8:       #5C6370
+xterm*color1:       #BE5046
+xterm*color9:       #E06C75
+xterm*color2:       #98C379
+xterm*color10:      #98C379
+xterm*color3:       #D19A66
+xterm*color11:      #E5C07B
+xterm*color4:       #61AFEF
+xterm*color12:      #61AFEF
+xterm*color5:       #C678DD
+xterm*color13:      #C678DD
+xterm*color6:       #56B6C2
+xterm*color14:      #56B6C2
+xterm*color7:       #636D83
+xterm*color15: #FFFFFF

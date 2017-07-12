@@ -1,0 +1,51 @@
+URxvt.font: xft:Misc Ohsnap:size=13
+
+! do not scroll with output
+URxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+
+URxvt.scrollBar: false
+
+! black
+URxvt*color0: #282C34
+URxvt*color8: #5C6370
+! red
+URxvt*color1: #BE5046
+URxvt*color9: #E06C75
+! green
+URxvt*color2: #98C379
+URxvt*color10: #98C379
+! yellow
+URxvt*color3: #D19A66
+URxvt*color11: #E5C07B
+! blue
+URxvt*color4: #61AFEF
+URxvt*color12: #61AFEF
+! magenta
+URxvt*color5: #C678DD
+URxvt*color13:#C678DD
+! cyan
+URxvt*color6: #56B6C2
+URxvt*color14: #56B6C2
+! gray
+URxvt*color7: #636D83
+URxvt*color15: #FFFFFF
+
+URxvt*foreground: #ABB2BF
+URxvt*background: #1E2127
+
+URxvt*cursorColor: #5C6370
+
+! Bind C-p to use unifont and show 'halfwidth left corner bracket', U+FF62,｢
+URxvt.keysym.C-p: 	command:\033]710;xft:Unifont:pixelsize=20\007
+! Bind C--, C-0(=) and C-+ to activate small, medium, and big font size resp. 
+URxvt.keysym.C-minus: 	command:\033]710;xft:Liberation Mono:pixelsize=12\007
+URxvt.keysym.C-0:	command:\033]710;xft:DejaVu Sans Mono:pixelsize=16\007
+URxvt.keysym.C-plus:	command:\033]710;xft:Liberation Mono:pixelsize=20\007
+
+

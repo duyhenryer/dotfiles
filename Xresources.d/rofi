@@ -1,0 +1,115 @@
+! vim: set ft=xdefaults:
+
+! Theme
+rofi.color-enabled:                  true
+rofi.color-window:                   #222222, #3b3b3b, #3b3b3b
+rofi.color-normal:                   #333333, #fdf6e3, #444444, #61819C, #eee8d5
+rofi.color-active:                   #333333, #3CBBFF, #444444, #1d90cd, #fdf6e3
+rofi.color-urgent:                   #333333, #FF4B4B, #444444, #dc322f, #fdf6e3
+rofi.font:                           consolas 10
+
+! Display names
+rofi.display-ssh:                    (ssh)
+rofi.display-run:                    (exec)
+rofi.display-drun:                   (drun)
+rofi.display-window:                 (node)
+rofi.display-windowcd:               (windowcd)
+rofi.display-combi:                  (combi)
+
+! Configs
+rofi.modi:                           window,run
+rofi.opacity:                        100
+rofi.width:                          30
+rofi.lines:                          15
+rofi.columns:                        1
+rofi.bw:                             1
+rofi.location:                       0
+rofi.padding:                        5
+rofi.yoffset:                        -200
+rofi.xoffset:                        0
+rofi.fixed-num-lines:                false
+rofi.terminal:                       urxvtc
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e {ssh-client} {host}
+rofi.run-command:                    {cmd}
+rofi.run-list-command:
+rofi.run-shell-command:              {terminal} -e {cmd}
+rofi.disable-history:                true
+rofi.levenshtein-sort:               true
+rofi.case-sensitive:                 false
+rofi.sidebar-mode:                   false
+rofi.eh:                             1
+rofi.auto-select:                    false
+rofi.parse-hosts:                    false
+rofi.parse-known-hosts:              true
+rofi.combi-modi:                     window,run
+rofi.fuzzy:                          true
+rofi.glob:                           true
+rofi.regex:                          true
+rofi.tokenize:                       true
+rofi.m:                              -1
+rofi.line-margin:                    2
+rofi.filter:
+rofi.separator-style:                dash
+rofi.hide-scrollbar:                 false
+rofi.fullscreen:                     false
+rofi.fake-transparency:              false
+rofi.dpi:                            96
+rofi.threads:                        1
+rofi.scrollbar-width:                8
+rofi.scroll-method:                  1
+rofi.pid:                            /run/user/1000/rofi.pid
+
+! Keybinding
+rofi.kb-primary-paste:               Control+Shift+v,Shift+Insert
+rofi.kb-secondary-paste:             Control+v,Insert
+rofi.kb-clear-line:                  Control+u
+rofi.kb-move-front:                  Control+a
+rofi.kb-move-end:                    Control+e
+rofi.kb-move-word-back:              Alt+b
+rofi.kb-move-word-forward:           Alt+f
+rofi.kb-move-char-back:              Left,Control+b
+rofi.kb-move-char-forward:           Right,Control+f
+rofi.kb-remove-word-back:            Control+Alt+h
+rofi.kb-remove-word-forward:         Control+Alt+d
+rofi.kb-remove-char-forward:         Delete,Control+d
+rofi.kb-remove-char-back:            BackSpace,Control+h
+rofi.kb-accept-entry:                Control+m,Return,KP_Enter
+rofi.kb-accept-custom:               Control+Return,Shift+Return
+rofi.kb-mode-next:                   Shift+Right,Control+Tab
+rofi.kb-mode-previous:               Shift+Left,Control+Shift+Tab
+rofi.kb-toggle-case-sensitivity:     grave,dead_grave
+rofi.kb-delete-entry:                Shift+Delete
+rofi.kb-row-left:                    Control+Page_Up,Control+h
+rofi.kb-row-right:                   Control+Page_Down,Control+l
+rofi.kb-row-up:                      Up,Control+k,Shift+Tab,Shift+ISO_Left_Tab
+rofi.kb-row-down:                    Down,Control+j
+rofi.kb-row-tab:                     Tab
+rofi.kb-page-prev:                   Page_Up
+rofi.kb-page-next:                   Page_Down
+rofi.kb-row-first:                   Home,KP_Home
+rofi.kb-row-last:                    End,KP_End
+rofi.kb-row-select:                  Control+space
+rofi.kb-cancel:                      Escape
+rofi.kb-custom-1:                    Alt+1
+rofi.kb-custom-2:                    Alt+2
+rofi.kb-custom-3:                    Alt+3
+rofi.kb-custom-4:                    Alt+4
+rofi.kb-custom-5:                    Alt+5
+rofi.kb-custom-6:                    Alt+6
+rofi.kb-custom-7:                    Alt+7
+rofi.kb-custom-8:                    Alt+8
+rofi.kb-custom-9:                    Alt+9
+rofi.kb-custom-10:                   Alt+0
+rofi.kb-custom-11:                   Alt+Shift+1
+rofi.kb-custom-12:                   Alt+Shift+2
+rofi.kb-custom-13:                   Alt+Shift+3
+rofi.kb-custom-14:                   Alt+Shift+4
+rofi.kb-custom-15:                   Alt+Shift+5
+rofi.kb-custom-16:                   Alt+Shift+6
+rofi.kb-custom-18:                   Alt+Shift+8
+rofi.kb-custom-17:                   Alt+Shift+7
+rofi.kb-custom-19:                   Alt+Shift+9
+rofi.kb-screenshot:                  Alt+Shift+S
+rofi.kb-toggle-sort:                 Alt+grave
+
