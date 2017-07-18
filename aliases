@@ -1,16 +1,43 @@
 #!/bin/bash
 
-alias ..='cd ..'
-alias ...='cd ../..'
-alias ....='cd ../../..'
-alias ~='cd ~'
-alias -- -="cd -"
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias .....='cd ../../../../'
+alias ......='cd ../../../../../'
+alias .......='cd ../../../../../../'
+alias ........='cd ../../../../../../../'
+
+alias mkdir='mkdir -p -v'
+alias h='history'
 
 #Short cuts
 alias dow='cd ~/Downloads'
 alias doc="cd ~/Documents"
 alias app='cd ~/Applications'
-alias h='history'
 
+#Aliases for common config files
+alias tmuxrc="vim ~/.tmux.conf"
+alias nvimrc="vim ~/.config/nvim/init.vim"
+alias i3conf="vim ~/.config/i3/config"
+alias i3barconf="vim ~/.config/i3/i3blocks.conf"
+alias startupconf="vim ~/.config/autostartrc"
+
+# vim
+alias v='vim'
+
+# Alias for search functions
+
+alias fd='find . -type d -name'
+alias ff='find . -type f -name'
+
+# Aliases for git
+
+alias ga="git add"
+alias gaa="git add --all"
+
+alias gco="git checkout"
+
+alias gp="git push"
+alias gl="git pull"
 
 
