@@ -3,12 +3,12 @@
 source ~/.xprofile
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 
-
 goldendict &
 nm-applet &
 
 firefox &
 
-
 urxvtd --quiet --opendisplay --fork &
 powerline-daemon -q &
+
+
