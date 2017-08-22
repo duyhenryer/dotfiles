@@ -13,6 +13,8 @@ Arch Linux private dotfiles, for backup purpose
 - Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
 - other: `tmux.conf`, `fonts`
 
+![Screenshot](./Screenshot.png)
+
 ### Other dotfiles
 - [i3wm-config](https://github.com/duyhenryer/i3wm-config)
 
