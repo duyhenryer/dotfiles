@@ -390,15 +390,268 @@ nnoremap <C-j> <C-W>j
 nnoremap <C-k> <C-W>k
 nnoremap <C-h> <C-W>h
 nnoremap <C-l> <C-W>l
+" cpp {{{
+augroup filetype_cpp
+    autocmd!
+    autocmd FileType cpp autocmd BufWritePre <buffer> :%s/\s\+$//e
+    "autocmd FileType cpp TagbarOpen
+    autocmd FileTYpe cpp set makeprg=make\ -C\ ../build\ -j9
+    "autocmd FileType cpp set textwidth=80
 
-" Toggle highlight search
-map <F2> :set hlsearch!<CR>
+    autocmd Filetype cpp nnoremap <F3> :YcmCompleter GoTo<CR>
+    autocmd FileType cpp call ReadCPPTags()
+    autocmd FileType cpp nnoremap <C-f> :%!astyle --options=$HOME/.vim/astyle/cpp-custom<CR>
 
-" Disable built-in vim help
-nmap <F1> <nop>
+    autocmd Syntax cpp call EnhanceCppSyntax()
+augroup END
+
+" }}}
+
+" cs {{{
+
+augroup filetype_cs
+    autocmd!
+    autocmd FileType cs noremap <F5> :!vim-build-cs "%:p"<CR>
+    "autocmd FileType cs noremap <buffer> <c-f> :call CSSBeautify()<cr>
+    "autocmd FileType cs vnoremap <buffer> <c-f> :call RangeCSSBeautify()<cr>
+    autocmd FileType cs nnoremap <C-f> :%!astyle --options=$HOME/.vim/astyle/cpp-custom<CR>
+augroup END
+
+" }}}
+
+" css {{{
+
+augroup filetype_css
+    autocmd!
+    autocmd FileType css noremap <buffer> <c-f> :call CSSBeautify()<cr>
+    autocmd FileType css vnoremap <buffer> <c-f> :call RangeCSSBeautify()<cr>
+augroup END
+
+" }}}
+
+" csv {{{
+aug CSV_Editing
+        au!
+        au BufRead,BufWritePost *.csv :%ArrangeColumn
+        au BufWritePre *.csv :%UnArrangeColumn
+    aug end
+" }}}
+
+""" {{{
+let g:ctrlp_working_path_mode = 'ra'
+let g:ctrlp_map = '<F5>'
+let g:ctrlp_cmd = 'CtrlP'
+
+"""}}}
 
 
-set backupdir-=.
-set backupdir+=.
-set backupdir-=~/
+" html {{{
+
+augroup filetype_html
+    autocmd!
+    autocmd FileType html set ft=htmldjango
+    autocmd FileType html set colorcolumn=81
+    autocmd FileType html set tabstop=4
+    autocmd FileType html set softtabstop=4
+    autocmd FileType html set shiftwidth=4
+    "autocmd FileType html vmap <c-f>  :!tidy -config "$HOME/.config/tidy.conf"<CR><CR>
+    "autocmd FileType html nnoremap <F5> :silent exec "!firefox-dev \"%:p\" &>/dev/null &"<CR>:redraw!<CR>
+    autocmd FileType html noremap <buffer> <c-f> :call HtmlBeautify()<cr>
+    autocmd FileType html vnoremap <buffer> <c-f> :call RangeHtmlBeautify()<cr>
+
+augroup END
+" }}}
+
+" java {{{
+
+augroup filetype_java
+    autocmd!
+    "autocmd FileType java let g:EclimFileTypeValidate = 1
+    autocmd FileType java set tabstop=2
+    autocmd FileType java set softtabstop=2
+    autocmd FileType java set shiftwidth=2
+    autocmd FileType java set colorcolumn=101
+    "autocmd FileType java set textwidth=100
+    "autocmd FileType java TagbarOpen
+    autocmd FileType java autocmd BufWritePre <buffer> :%s/\s\+$//e
+augroup END
+
+" }}}
+
+" javascript {{{
+
+augroup filetype_js
+    autocmd!
+    "autocmd FileType javascript set textwidth=80
+    autocmd FileType javascript noremap <buffer>  <c-f> :call JsBeautify()<cr>
+    autocmd FileType javascript vnoremap <buffer>  <c-f> :call RangeJsBeautify()<cr>
+    autocmd FileType javascript nmap <F5> :!urxvtc -hold -e seed "%:p"<CR><CR>
+    autocmd FileType javascript set tabstop=4
+    autocmd FileType javascript set softtabstop=4
+    autocmd FileType javascript set shiftwidth=4
+    autocmd FileType javascript set colorcolumn=81
+augroup END
+
+" }}}
+
+" json {{{
+
+augroup filetype_json
+    autocmd!
+    autocmd FileType json noremap <buffer> <c-f> :call JsonBeautify()<cr>
+    autocmd FileType json vnoremap <buffer> <c-f> :call RangeJsonBeautify()<cr>
+augroup END
+
+" }}}
+
+" jsx {{{
+
+augroup filetype_jsx
+    autocmd!
+    autocmd FileType jsx noremap <buffer> <c-f> :call JsxBeautify()<cr>
+    autocmd FileType jsx vnoremap <buffer> <c-f> :call RangeJsxBeautify()<cr>
+augroup END
+
+" }}}
+
+" markdown {{{
+
+augroup filetype_md
+    au!
+    au BufNewFile,BufRead *.md,*.markdown setlocal filetype=ghmarkdown
+augroup END
+
+" }}}
+
+" PHP {{{
+" Override syntax highlighting
+function! PhpSyntaxOverride()
+    hi! def link phpDocTags  phpDefine
+    hi! def link phpDocParam phpType
+endfunction
+
+augroup phpSyntaxOverride
+    autocmd!
+    autocmd FileType php call PhpSyntaxOverride()
+augroup END
+
+augroup filetype_php
+    autocmd!
+    autocmd FileType php vmap <C-f> :Autoformat<CR>
+    autocmd FileType php nmap <F5> :!clear && php "%:p"<CR>
+augroup END
+
+" }}}
+
+" python {{{
+augroup filetype_py
+    autocmd!
+    " TODO active pygtk completion
+    "autocmd FileType python TagbarOpen
+    autocmd FileType python set tabstop=4
+    "autocmd FileType python set textwidth=79
+    autocmd FileType python set colorcolumn=80
+    autocmd FileType python set makeprg=python\ -c\ \"import\ py_compile,sys;\ sys.stderr=sys.stdout;\ py_compile.compile(r'%')\"
+    autocmd FileType python set efm=%C\ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#,%Z%[%^\ ]%\\@=%m
+    autocmd FileType python autocmd BufWritePre <buffer> :%s/\s\+$//e
+    autocmd FileType python call PythonKeywordHighlight()
+    autocmd FileType python nmap <F5> :!clear && ipython "%:p"<CR>
+    autocmd FileType python nmap <F6> :!clear && ipython -m pudb "%:p" <CR><CR>
+    autocmd FileType python vmap <C-f> :Autoformat<CR>
+augroup END
+
+
+
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
+
+
+" }}}
+
+" ruby {{{
+augroup filetype_rb
+    autocmd!
+    "autocmd FileType ruby TagbarOpen
+    autocmd FileType ruby autocmd BufWritePre <buffer> :%s/\s\+$//e
+augroup END
+
+" }}}
+
+" scala {{{
+
+augroup filetype_scala
+    autocmd!
+    "autocmd FileType scala let g:EclimFileTypeValidate = 1
+    autocmd FileType scala set tabstop=2
+    autocmd FileType scala set softtabstop=2
+    autocmd FileType scala set shiftwidth=2
+    autocmd FileType scala set colorcolumn=101
+    "autocmd FileType scala set textwidth=100
+    "autocmd FileType scala TagbarOpen
+    autocmd FileType scala autocmd BufWritePre <buffer> :%s/\s\+$//e
+
+    if has('gui_running')
+        "autocmd FileTYpe scala set lines=50 columns=140
+    endif
+augroup END
+" }}}
+""" Javascript {{{
+let g:javascript_plugin_jsdoc = 1
+let g:javascript_plugin_flow = 1
+"" Concealing Characters"
+let g:javascript_conceal_function             = "ƒ"
+let g:javascript_conceal_null                 = "ø"
+let g:javascript_conceal_this                 = "@"
+let g:javascript_conceal_return               = "⇚"
+let g:javascript_conceal_undefined            = "¿"
+let g:javascript_conceal_NaN                  = "ℕ"
+let g:javascript_conceal_prototype            = "¶"
+let g:javascript_conceal_static               = "•"
+let g:javascript_conceal_super                = "Ω"
+let g:javascript_conceal_arrow_function       = "⇒"
+let g:javascript_conceal_noarg_arrow_function = "🞅"
+let g:javascript_conceal_underscore_arrow_function = "🞅"
+set conceallevel=1
+set foldmethod=syntax
+
+
+"""}}}
+
+""" {{{{
+" html
+let g:user_emmet_mode='n'    "only enable normal mode functions.
+let g:user_emmet_mode='inv'  "enable all functions, which is equal to
+let g:user_emmet_mode='a'    "enable all function in all mode."
+"just for html/css
+let g:user_emmet_install_global = 0
+autocmd FileType html,css EmmetInstall
+
+"<C-Y>
+let g:user_emmet_leader_key='<C-Z>'
+
+" Add wed-api
+"let g:user_emmet_settings = webapi#json#decode(join(readfile(expand('~/.snippets_custom.json')), "\n"))
+
+""" //5
+let g:html5_event_handler_attributes_complete = 0
+let g:html5_rdfa_attributes_complete = 0
+let g:html5_microdata_attributes_complete = 0
+let g:html5_aria_attributes_complete = 0
+
+"""}}}}
+set  rtp+=/usr/local/lib/python3.6/dist-packages/powerline/bindings/vim/
+set laststatus=2
+set t_Co=256
+
+
+"""  java
+"autocmd FileType java setlocal omnifunc=javacomplete#Complete
+
+
+"let g:JavaComplete_MavenRepositoryDisable = 1
 
