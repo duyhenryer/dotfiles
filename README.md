@@ -21,4 +21,6 @@ Arch Linux private dotfiles, for backup purpose
 - [i3wm-config](https://github.com/duyhenryer/i3wm-config)
 
 #### Misc
-- [x] Ohh
+- [x] Contact me: [Telegram](https://t.me/duyhenryer)
+
+
