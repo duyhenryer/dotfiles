@@ -10,6 +10,7 @@ Arch Linux private dotfiles, for backup purpose
 - Music Player: `ncmpcpp` + `mpd`
 - Web Browser: `Firefox`
 - Video Player: `vlc`
+- Zsh Terminal: `zsh`
 - Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
 - other: `tmux.conf`, `fonts`
 
