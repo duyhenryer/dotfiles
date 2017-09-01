@@ -7,8 +7,11 @@ alias ......='cd ../../../../../'
 alias .......='cd ../../../../../../'
 alias ........='cd ../../../../../../../'
 
-alias mkdir='mkdir -p -v'
-alias h='history'
+alias mkdir="mkdir -p -v"
+alias h="history"
+alias e="exit"
+alias c="clear"
+alias t="tmux"
 
 #Short cuts
 alias dow='cd ~/Downloads'
