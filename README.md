@@ -1,5 +1,7 @@
 <h1 align="center"> dotfiles </h1>
 
+![icon](WallPaper/icon.svg)
+
 Arch Linux private dotfiles, for backup purpose
 
 ## Setup
