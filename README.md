@@ -1,19 +1,16 @@
-<h1 align="center"> dotfiles </h1>
-
-![icon](WallPaper/icon.svg)
+# ![icon](WallPaper/icon.svg) dotfiles
 
 Arch Linux private dotfiles, for backup purpose
 
 ## Setup
 - Dictionary : `goldendict`  
 - Application Launcher: `rofi` + `Xrescources`
-- Shell: `bash`
+- Shell: `bash` + `zsh`
 - Terminal Emulator: `urxvt`
 - Text Editor: `vim`
 - Music Player: `ncmpcpp` + `mpd`
 - Web Browser: `Firefox`
 - Video Player: `vlc`
-- Zsh Terminal: `zsh`
 - Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
 - other: `tmux.conf`, `fonts`
 
