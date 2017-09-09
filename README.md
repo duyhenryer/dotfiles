@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+<h1 align="center"> dotfiles </h1>
 
 Arch Linux private dotfiles, for backup purpose
 
@@ -15,7 +15,7 @@ Arch Linux private dotfiles, for backup purpose
 - Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
 - other: `tmux.conf`, `fonts`
 
-![Icon](WallPaper/icon.svg)
+
 ![Screenshot](./Screenshot.png)
 
 ### Other dotfiles
