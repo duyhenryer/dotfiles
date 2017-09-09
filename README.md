@@ -1,4 +1,9 @@
-<h1 align="center">  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"> dotfiles </h1>
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/duyhenryer/dotfiles/master/Wallpaper/icon.svg" alt="Awesome">
+	<br>
+	<br>
+</h1>
+
 Arch Linux private dotfiles, for backup purpose
 
 ## Setup
