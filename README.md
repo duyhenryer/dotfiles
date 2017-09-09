@@ -1,10 +1,5 @@
-<h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/duyhenryer/dotfiles/master/Wallpaper/icon.svg" alt="Awesome">
-	<br>
-	<br>
-</h1>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
-# awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]# awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]
 Arch Linux private dotfiles, for backup purpose
 
 ## Setup
