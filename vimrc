@@ -23,12 +23,39 @@ Plugin 'tmux-plugins/vim-tmux'           " tmuxconf color
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'kien/rainbow_parentheses.vim'    " bracket color support
+Plugin 'tpope/vim-surround'		 " parentheses, brackets, quotes, XML tags, and more
+Plugin 'jiangmiao/auto-pairs' 
+Plugin 'gorodinskiy/vim-coloresque'
+Plugin 'scrooloose/nerdcommenter'
+Plugin 'airblade/vim-gitgutter'
 
+""" Development
+Plugin 'chrisbra/csv.vim'    
+Plugin 'plasticboy/vim-markdown' 
+Plugin 'Vimjas/vim-python-pep8-indent'
+"Plugin 'Shougo/deoplete.nvim'
+"" Python
+Plugin 'python-mode/python-mode'
+Plugin 'tpope/vim-sensible'
+Plugin 'PotatoesMaster/i3-vim-syntax'
+Plugin 'Matt-Deacalion/vim-systemd-syntax'
 
 
 call vundle#end()
 filetype plugin indent on
 syntax on
+
+
+""" Plugin Configuration {{{  
+
+""" Color scheme {{{
+
+set t_Co=256
+set background=dark
+color onedark
+let g:onedark_termcolors=256
+
+""" }}}
 
 """ Hightline {{{
 if !has('gui_running')
@@ -199,12 +226,55 @@ let g:pymode_doc_bind = "<C-S-d>"
 "" python 3 syntax
 let g:pymode_python = 'python3'
 
+""" }}}
+
+""" auto-pairs {{{
+
+let g:AutoPairsFlyMode = 0
+let g:AutoPairsShortcutBackInsert = '<M-b>'
 
 """ }}}
 
+""" nerdcommenter {{{
+" Add spaces after comment delimiters by default
+let g:NERDSpaceDelims = 1
+" Use compact syntax for prettified multi-line comments
+let g:NERDCompactSexyComs = 1
+" Align line-wise comment delimiters flush left instead of following code indentation
+let g:NERDDefaultAlign = 'left'
+" Set a language to use its alternate delimiters by default
+let g:NERDAltDelims_java = 1
+" Add your own custom formats or override the defaults
+let g:NERDCustomDelimiters = { 'c': { 'left': '/**','right': '*/' } }
+" Allow commenting and inverting empty lines (useful when commenting a region)
+let g:NERDCommentEmptyLines = 1
+" Enable trimming of trailing whitespace when uncommenting
+let g:NERDTrimTrailingWhitespace = 1
+" customize keymapping
+map <Leader>cc <plug>NERDComToggleComment
+map <Leader>c<space> <plug>NERDComComment
+
+""" }}}
+
+""" vim-gitgutter {{{
+let g:gitgutter_max_signs = 1000
+""" }}}
+
+""" vim-markdown {{{
+let g:vim_markdown_folding_disabled = 1
+""" }}}
+
+""" vim-csv {{{
+hi CSVColumnEven term=bold ctermbg=4 guibg=DarkBlue
+hi CSVColumnOdd  term=bold ctermbg=5 guibg=DarkMagenta
+let g:csv_highlight_column = 'n'
+""" }}}
+
+""" deoplete {{{
+"let g:deoplete#enable_at_startup = 1
+"let g:deoplete#auto_complete_start_length = 0
+""" }}}
 
 
-
-
-
+""" }}}
 
