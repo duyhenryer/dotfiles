@@ -1,0 +1,8 @@
+
+#!/bin/bash
+
+basedir="${USR_OPT_DIR}/idea-iu"
+
+export IDEA_PROPERTIES="${XDG_CONFIG_HOME:=$HOME/.config}/JetBrains/PycharmIdea/idea.properties"
+
+exec "${basedir}/bin/pycharm.sh" "$@"

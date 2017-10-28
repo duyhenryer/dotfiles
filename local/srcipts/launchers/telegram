@@ -1,0 +1,7 @@
+#!/bin/bash
+
+basedir="${USR_OPT_DIR}/telegram"
+
+EXEC="${basedir}/Telegram"
+
+exec "${EXEC}" "$@"
