@@ -5,6 +5,9 @@
 [core]
 	editor = vim
 
+[url "https://duyhenryer@github.com"]
+	insteadOf = https://github.com
+
 [color]
 	ui = auto
 
