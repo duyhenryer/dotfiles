@@ -31,13 +31,15 @@ fi
 
 # virtualenv and virtualenvwrapper
 export WORKON_HOME=$HOME/.virtualenvs
-#source /usr/bin/virtualenvwrapper.sh
 
 # screenfetch
-screenfetch
+neofetch
+
+exec zsh
 
 # vim
 export VISUAL="vim"
 
 # mssql-server
-export PATH="$PATH:/opt/mssql-tools/bin"
+#export PATH="$PATH:/opt/mssql-tools/bin"
+
