@@ -34,6 +34,9 @@ Plugin 'chrisbra/csv.vim'
 Plugin 'plasticboy/vim-markdown' 
 Plugin 'Vimjas/vim-python-pep8-indent'
 "Plugin 'Shougo/deoplete.nvim'
+
+Plugin 'tomlion/vim-solidity'		" Solidity dev ETH(Smart Contracts)
+
 "" Python
 Plugin 'python-mode/python-mode'
 Plugin 'tpope/vim-sensible'
