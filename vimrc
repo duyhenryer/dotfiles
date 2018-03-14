@@ -43,6 +43,13 @@ Plugin 'tpope/vim-sensible'
 Plugin 'PotatoesMaster/i3-vim-syntax'
 Plugin 'Matt-Deacalion/vim-systemd-syntax'
 
+""" GoLang
+Plugin 'fatih/vim-go'
+Plugin 'vim-jp/vim-go-extra'
+
+""" NodeJs
+Plugin 'moll/vim-node'
+
 
 call vundle#end()
 filetype plugin indent on
@@ -277,7 +284,16 @@ let g:csv_highlight_column = 'n'
 "let g:deoplete#enable_at_startup = 1
 "let g:deoplete#auto_complete_start_length = 0
 """ }}}
+""" NodeJs {{{
+autocmd User Node if &filetype == "javascript" | setlocal expandtab | endif
 
+autocmd User Node
+  \ if &filetype == "javascript" |
+  \   nmap <buffer> <C-w>f <Plug>NodeVSplitGotoFile |
+  \   nmap <buffer> <C-w><C-f> <Plug>NodeVSplitGotoFile |
+  \ endif
+
+""" }}}
 
 """ }}}
 
