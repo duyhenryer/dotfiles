@@ -3,7 +3,7 @@
 [ DARF | MAY BE]
 Arch Linux private dotfiles, for backup purpose
 
-## Config thinfan for Lennovo Thinkpab T430
+## Config thinkfan for Lennovo Thinkpab T430
 
 - Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
 
