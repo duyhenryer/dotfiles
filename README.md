@@ -1,12 +1,13 @@
 # ![icon](WallPaper/icon.svg) dotfiles
 
+ 
+[![Build Status](https://travis-ci.org/duyhenryer/dotfiles.svg)](https://travis-ci.org/duyhenryer/dotfiles)
+
 Arch Linux private dotfiles, for backup purpose
 
 ## Config thinkfan for Lennovo Thinkpab T430
 
-- Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
-
-
+Thinkfan of Lenovo Thinkpab T430 : `thinkfan.conf`
 
 ## Somthing news
 
@@ -37,4 +38,4 @@ make uninstall
 - [i3wm-config](https://github.com/duyhenryer/i3wm-config)
 
 #### Misc
-- [x] Contact me: [Telegram](https://t.me/duyhenryer)
+Contact me: [Telegram](https://t.me/duyhenryer)
