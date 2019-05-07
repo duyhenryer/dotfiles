@@ -1,8 +1,8 @@
 # ![icon](WallPaper/icon.svg) dotfiles
 
- 
-[![Build Status](https://travis-ci.org/duyhenryer/dotfiles.svg)](https://travis-ci.org/duyhenryer/dotfiles)
 
+[![Build Status](https://travis-ci.org/duyhenryer/dotfiles.svg)](https://travis-ci.org/duyhenryer/dotfiles)
+ 
 Arch Linux private dotfiles, for backup purpose
 
 ## Config thinkfan for Lennovo Thinkpab T430
