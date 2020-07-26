@@ -1,7 +1,0 @@
-#!/bin/bash
-
-basedir="${USR_OPT_DIR}/rambox"
-
-export HOSTALIASES="${XDG_LOCAL_DIR:=~/.local}/hosts"
-
-exec "${basedir}/rambox" "$@"

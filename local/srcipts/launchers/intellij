@@ -1,7 +1,0 @@
-#!/bin/bash
-
-basedir="${USR_OPT_DIR}/idea-iu"
-
-export IDEA_PROPERTIES="${XDG_CONFIG_HOME:=$HOME/.config}/JetBrains/IntelliJIdea/idea.properties"
-
-exec "${basedir}/bin/idea.sh" "$@"

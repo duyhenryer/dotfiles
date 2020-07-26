@@ -1,8 +1,0 @@
-#!/bin/bash
-
-basedir="${USR_OPT_DIR}/clion"
-
-export CL_PROPERTIES="${XDG_CONFIG_HOME:=$HOME/.config}/JetBrains/CLion/idea.properties"
-
-exec "${basedir}/bin/clion.sh"
-

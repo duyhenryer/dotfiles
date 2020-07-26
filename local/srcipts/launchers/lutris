@@ -1,8 +1,0 @@
-#!/bin/bash
-
-basedir="${USR_SRC_DIR}/lutris"
-
-source "${basedir}/virtualenv/bin/activate"
-export PATH="${basedir}/bin:${PATH}"
-
-exec "${basedir}/bin/lutris" "$@"
