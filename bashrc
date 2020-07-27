@@ -43,3 +43,5 @@ export VISUAL="vim"
 # mssql-server
 #export PATH="$PATH:/opt/mssql-tools/bin"
 
+[ -f ~/.kubectl_aliases ] && source ~/.kubectl_aliases
+
