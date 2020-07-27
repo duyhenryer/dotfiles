@@ -1,0 +1,8 @@
+# This is file aliases for kubectl
+
+alias kg='kubectl get'
+alias kgp='kubectl get po'
+alias ka='kubectl apply -f'
+alias kd='kubectl describe'
+alias ke='kubectl exec -it'
+alias kl='kubectl logs -f'
